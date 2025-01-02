@@ -1,6 +1,6 @@
 <h1 align="center"; color=>Brayan Valadares</h1>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lato&weight=500&duration=2500&pause=1000&color=EEEEEE&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Linguagens%3A+JavaScript%2C+TypeScript%2C+HTML%2FCSS+%F0%9F%93%9C;Frameworks%3A+Angular+%E2%9A%99%EF%B8%8F+;Bancos+de+Dados%3A+SQLite%2C+MySQL+%F0%9F%9B%A2%EF%B8%8F+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lato&weight=500&duration=2500&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Linguagens%3A+JavaScript%2C+TypeScript%2C+HTML%2FCSS+%F0%9F%93%9C;Frameworks%3A+Angular+%E2%9A%99%EF%B8%8F+;Bancos+de+Dados%3A+SQLite%2C+MySQL+%F0%9F%9B%A2%EF%B8%8F+" alt="Typing SVG" /></a>
 </div>
 <div>
   <p>
