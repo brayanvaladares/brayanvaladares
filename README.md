@@ -1,6 +1,6 @@
 <h1 align="center"; color=>Brayan Valadares</h1>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lato&weight=500&duration=2500&pause=1000&color=EEEEEE&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Linguagens%3A+JavaScript%2C+TypeScript%2C+HTML%2FCSS+%F0%9F%93%9C;Frameworks%3A+Angular+%E2%9A%99%EF%B8%8F+;Bancos+de+Dados%3A+SQLite%2C+MySQL+%F0%9F%9B%A2%EF%B8%8F+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&weight=500&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%3C%F0%9F%91%BE%3E+Javascript%2C+typescript%2C+HTML%2FCSS;%3C%F0%9F%94%A7%3E+Angular;%3C%F0%9F%8E%B2%3E+MySQL%2C+SQLite+e+MariaDB;%3C%F0%9F%A7%A9%3E+VS+Code%2C+Figma+e+Notion" alt="Typing SVG" /></a>
 </div>
 <div>
   <p>
@@ -27,11 +27,12 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
   <br/>
   <br/>
+  
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual studio code">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   <img src="https://img.shields.io/badge/Figma-4D4D4D?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
   <img src="https://img.shields.io/badge/affinity_designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" alt="affinity-designer">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="">
-  <img src="https://img.shields.io/badge/Photoshop-0C6FB4?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
