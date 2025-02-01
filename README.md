@@ -8,7 +8,7 @@
   </p>
   <strong>Linguagens e Frameworks:</strong>
   <ul>
-    <li>💻 <strong>C#</strong>, <strong>JavaScript</strong> e <strong>TypeScript</strong></li>
+    <li>💻 <strong>C#</strong> e <strong>Typescript</strong></li>
     <li>⚙️ <strong>Angular</strong></li>
   </ul>
   <strong>Interesses de Aprendizado:</strong>
